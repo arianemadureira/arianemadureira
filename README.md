@@ -28,8 +28,6 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arianemadureira&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-## 🌱 Atualmente estou estudando o framework Cypress
-
 
 ## 📫 Como me encontrar
 <div>
